@@ -13,7 +13,7 @@ Once the seminar is complete, further material will be migrated here.
 
 ## Progress
 + A Research Proposal was submitted as part of the Scientific Research Methods Course [CAI_ScRM] at the THI.
-+ *Seminar paper seminar paper as part of the Seminar course [CAI_Sem] at THI, developing the system architecture and algorithms.* 
++ *A Seminar Paper as part of the Seminar course [CAI_Sem] at THI, developing the system architecture and algorithms.* 
  
 
  
