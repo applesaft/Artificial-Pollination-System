@@ -7,7 +7,7 @@ The project focuses on the development of a non-invasive and sustainable artific
 ## Remarks
 This is the **public-facing repository** for the Hybrid Artificial Pollination System project.
  
-Active development, including the research proposal, seminar paper drafts and algorithm implementations is maintained in a **private development repository** (`Sustainable-Artificial-Pollination-System-Dev`). That repository is kept private for academic integrity reasons.
+Active development, including the research proposal, seminar paper drafts and algorithm implementations is maintained in a **private development repository** (`Artificial-Pollination-System-Dev`). That repository is kept private for academic integrity reasons.
  
 Once the seminar is complete, further material will be migrated here.
 
